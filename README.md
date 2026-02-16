@@ -2,7 +2,6 @@
 <div align="center">
   <h1>Senior Full Stack Developer</h1>
   <em>Passionate about AI, Innovation & Building Scalable Solutions</em>
-  
   <!-- Dynamic Status Indicator -->
   <div align="center">
     <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-blue?style=flat-square" alt="Status" />
