@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Senior Full Stack Developer</h1>
+  <h1>Senior AI Full Stack Developer</h1>
   <em>Passionate about AI, Innovation & Building Scalable Solutions</em>
   <!-- Dynamic Status Indicator -->
   <div align="center">
